@@ -1,5 +1,5 @@
 # html-css
-In diesem Kurs habe ich die wichtigsten Konzepte von HTML und CSS gelernt und durch Übungen, die es am Ende jeder Lektion gab, vertieft. In den Übungen konnte man die erlernten Skills direkt anwenden. Außerdem wurde ein YouTube-Klon als Projekt Schritt für Schritt aufgebaut.
+In diesem Kurs habe ich die wichtigsten Konzepte von HTML und CSS gelernt und durch Übungen, die es am Ende jeder Lektion gab, vertieft. In den Übungen konnte man das Erlernte direkt anwenden. Außerdem wurde ein YouTube-Klon Schritt für Schritt als Projekt aufgebaut.
 
 ### Kursinhalte:  
 - Grundlagen von HTML  
